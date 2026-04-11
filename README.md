@@ -1,2 +1,41 @@
-# all-restaurants-in-california-us-sample-153616
-Free BeamStation sample for All Restaurants in California, US (87,776 records in the full dataset)
+# All Restaurants in California, US
+
+> Free BeamStation sample export with 1,000 rows and masked direct-contact fields.
+
+## Snapshot
+
+| Field | Value |
+|---|---|
+| Dataset ID | `153616` |
+| Location | California |
+| Category | Restaurants |
+| Full dataset size | 87,776 records |
+| Free sample size | 1,000 records (1.14%) |
+| Last export | 2026-04-09T14:15:47.047621+00:00 |
+| Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-california-us-sample-153616/releases/download/sample-latest/beamstation_153616_restaurants-us-ca_SAMPLE_DIST.csv) |
+
+## What is in this sample
+
+This sample is generated directly from the BeamStation export pipeline and combines the `complete` and `insights` export profiles into one evaluation CSV.
+
+Included signals:
+- business profile and location fields
+- ratings, review counts, and review activity
+- Beam Score and competitive metrics
+- sentiment and percentile features
+- social profile signals
+- masked email and masked phone fields
+
+## Get the full dataset
+
+The full commercial dataset is available in the BeamStation catalog:
+
+[https://beamstation.com/datasets](https://beamstation.com/datasets)
+
+Search for dataset ID `153616` on BeamStation if you want the exact commercial listing.
+
+## Notes
+
+- This repository only contains a free sample.
+- Contact data that drives the commercial value is partially masked.
+- The source sample file is mirrored from BeamStation B2 storage and refreshed from CentralDB exports.
