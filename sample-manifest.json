@@ -1,0 +1,12 @@
+{
+  "export_job_id": "fad202f2-7868-4641-89ab-e90e388b28d9",
+  "id_short": 153616,
+  "published_at": "2026-04-11T19:02:43Z",
+  "repo_name": "all-restaurants-in-california-us-sample-153616",
+  "sample_asset_name": "beamstation_153616_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/153616/beamstation_153616_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 1000,
+  "sample_sha256": "4e0580179740c4e7e9cee6f349bb55c5b922685fe1c2a24415afb6facefd6673",
+  "sample_size_bytes": 2468942,
+  "total_records": 87776
+}
