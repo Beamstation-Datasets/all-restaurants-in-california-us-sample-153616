@@ -9,9 +9,9 @@
 | Dataset ID | `153616` |
 | Location | California |
 | Category | Restaurants |
-| Full dataset size | 86,639 records |
-| Free sample size | 1,000 records (1.15%) |
-| Last export | 2026-04-17T03:20:04.807153+00:00 |
+| Full dataset size | 74,833 records |
+| Free sample size | 1,000 records (1.34%) |
+| Last export | 2026-04-30T20:49:47.223873+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-california-us-sample-153616/releases/download/sample-latest/beamstation_153616_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
